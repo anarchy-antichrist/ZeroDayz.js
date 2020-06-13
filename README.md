@@ -1,3 +1,9 @@
+# Whats This?
+A discord.js wrapper made for ZeroDayz with lots of bug fixes and crash preventers etc
+
+# Installation
+`npm i ZeroDayz.js`
+
 ## Example usage
 ```js
 const ZeroDayz = require('ZeroDayz');
