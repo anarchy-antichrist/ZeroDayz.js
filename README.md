@@ -2,11 +2,11 @@
 A discord.js wrapper made for ZeroDayz with lots of bug fixes and crash preventers etc
 
 # Installation
-`npm i ZeroDayz.js`
+`npm i zerodayz.js`
 
 ## Example usage
 ```js
-const ZeroDayz = require('ZeroDayz');
+const ZeroDayz = require('zerodayz.js');
 const selfbot = new ZeroDayz.Client();
 
 selfbot.on('ready', () => {
