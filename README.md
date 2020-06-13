@@ -10,7 +10,7 @@ const ZeroDayz = require('zerodayz.js');
 const selfbot = new ZeroDayz.Client();
 
 selfbot.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
+  console.log(`Logged in as ${selfbot.user.tag}!`);
 });
 
 selfbot.on('message', msg => {
